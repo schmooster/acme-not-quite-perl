@@ -6,7 +6,6 @@ use Test;
 my @dependencies = qw{
     Test::Junkie
     Acme::DSON
-    Template6
     XXX
 };
 

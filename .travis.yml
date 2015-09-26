@@ -5,4 +5,4 @@ perl6:
   - 2015.04
 install:
   - rakudobrew build-panda
-  - panda install Test::Junkie Acme::DSON Template6 XXX
+  - panda install Test::Junkie Acme::DSON XXX

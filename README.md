@@ -30,7 +30,7 @@ Definition
 * an Acme::Not::Quite::Perl module, by extension, necessarily indicates
   the possibility that the Quite::Perl module may exist.
 
-* an Acme::Not::*(module is expected to at least look for *, so that an
+* an Acme::Not::* module is expected to at least look for *, so that an
   informed decision can be made.
 
 ### Adjustments ###

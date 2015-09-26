@@ -1,0 +1,8 @@
+language: perl6
+perl6:
+  - latest
+  - 2015.07
+  - 2015.04
+install:
+  - rakudobrew build-panda
+  - panda install Test::Junkie Acme::DSON Template6 XXX

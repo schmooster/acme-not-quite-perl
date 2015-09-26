@@ -21,7 +21,7 @@ Acme::Not::* namespace.
 Definition
 --------
 
---Revelations
+### Revelations ###
 * an Acme::Not::Acme::Modulename module should reveal _if_ 
   Acme::Modulename is ever used or required. Revelation can be as 
   revealing as it likes, and suppression should always be possible.
@@ -30,7 +30,7 @@ Definition
 * an Acme::Not::*(module is expected to at least look for *, so that an
   informed decision can be made.
 
---Adjustments
+### Adjustments ###
 * where an operation is performed to alter, excise, or affect any 
   module outside its own namespace, a very clear and explicit 
   warning is expected, and a further confirmation operation must occur. 
@@ -43,9 +43,6 @@ Definition
    decision has been made in either the code or the runtime,
    or vice-versa, or vice-versa.
 
-Author
---------
-
 License
 --------
 Copyright Gaz Collins (c) 2015
@@ -56,5 +53,5 @@ Encompasses the Perl Artistic License, and the same one used in Perl6
 v1.0, and also talk to me if you want to.
 License subject to evaluation if anything changes, but this version you
 are reading is always as freely usable as this text makes it sound.
-I prefer it if this isn't closed up and hidden away somewhere,devoid of
-source.
+I prefer it if this isn't closed up and hidden away somewhere, devoid 
+of source.

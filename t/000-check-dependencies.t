@@ -6,7 +6,7 @@ use Test;
 my @dependencies = qw{
     Test::Junkie
     Acme::DSON
-    XXX
+    Acme::Flutterby
 };
 
 plan @dependencies.elems;

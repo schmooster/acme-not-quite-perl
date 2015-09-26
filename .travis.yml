@@ -3,4 +3,4 @@ perl6:
   - latest
 install:
   - rakudobrew build-panda
-  - panda install Test::Junkie Acme::DSON XXX
+  - panda install Test::Junkie Acme::DSON Acme::Flutterby
